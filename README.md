@@ -4,7 +4,7 @@
 
 
 
-!\[Ảnh đại diện](avatar.png)
+!\[Ảnh đại diện](avatar.png.png)
 
 
 
